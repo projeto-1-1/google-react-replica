@@ -11,7 +11,7 @@ function App() {
 				</div>
 				<input type="text" />
 				<div>
-					<button></button>
+					<button>Batata</button>
 				</div>
 			</body>
 		</div>
