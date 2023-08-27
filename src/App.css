@@ -1,0 +1,9 @@
+.AppLogoContainer {
+	display: flex;
+	align-items: center;
+	/* height: 105px;
+	width: 300px; */
+	/* transform: scale(0.5) translate(-150px); */
+	height: 210px;
+	width: 600px;
+}
